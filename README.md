@@ -1,0 +1,2 @@
+# blockchain-developer-bootcamp-final-project
+Idea is to do a prototype to bring Real world data into Blockchain and take decision based on the data / info which flows in. Planning to use any of the Oracle services (Chainlink / Band (any one  which offers free API's ) endpoints to decide on the price data info)
